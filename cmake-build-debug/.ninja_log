@@ -1,0 +1,17 @@
+# ninja log v5
+35	1213	7065526233692867	CMakeFiles/Bancomat.dir/ATM.cpp.obj	9e0ee4fcbec7cecf
+22	985	7065526231418548	CMakeFiles/Bancomat.dir/main.cpp.obj	4aa7e13859e096ae
+38	988	7065498842286731	CMakeFiles/Bancomat.dir/Tranzactie.cpp.obj	dc78b1fd58074381
+8	1253	7065526234118226	CMakeFiles/Bancomat.dir/Collection.cpp.obj	221ae2059f778666
+52	285	7065498835210265	CMakeFiles/Bancomat.dir/RepositoryCollection.cpp.obj	341b1ea2837ba78d
+95	964	7065498842046703	CMakeFiles/Bancomat.dir/VectorDinamic.cpp.obj	fe23833c5368fbb0
+48	900	7065526230566882	CMakeFiles/Bancomat.dir/TestList.cpp.obj	78b3b6b1ace91b64
+1254	1529	7065526236746667	Bancomat.exe	21b84c0bb1797049
+11	93	7312565255593439	CMakeFiles/Bancomat.dir/RepositoryCollection.cpp.obj	11160bd78d33616d
+1	964	7312565264302030	CMakeFiles/Bancomat.dir/VectorDinamic.cpp.obj	f0c9fbf0a2288082
+15	1053	7312565265192250	CMakeFiles/Bancomat.dir/Tranzactie.cpp.obj	9ffb0508478ddda9
+32	1064	7312565265295049	CMakeFiles/Bancomat.dir/TestList.cpp.obj	3cf1ba74cf069c09
+20	1128	7312565265935047	CMakeFiles/Bancomat.dir/main.cpp.obj	2ded1a8d32fd31e1
+26	1189	7312565266546058	CMakeFiles/Bancomat.dir/Collection.cpp.obj	3f8fb342eef0d119
+6	1293	7312565267607867	CMakeFiles/Bancomat.dir/ATM.cpp.obj	74fb22979b88718e
+1294	1416	7312565268797100	Bancomat.exe	6559b7ff5adef11e
